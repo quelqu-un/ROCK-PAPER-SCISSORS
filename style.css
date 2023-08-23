@@ -1,0 +1,71 @@
+.subsBtn {
+    background-color: blue;
+    border: none;
+    color: aliceblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-weight: bold;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-left: 15px;
+}
+.subsBtn-change{
+    margin-left: 15px;
+    background-color: rgb(46, 212, 24);
+    color: black;
+    border: none;
+    color: aliceblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-weight: bold;
+    border-radius: 50px;
+    cursor: pointer;
+}
+body{
+    background-color: rgb(25, 25, 25);
+    color: white;
+    font-size: 20px;
+}
+.titulo{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+.move-icon{
+    height: 100px;
+  
+}
+#resultScore{
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+#move-btn{
+    background-color: transparent;
+    border-radius: 80px;
+    cursor: pointer;
+    border: 2px solid white;
+    height: 150px;
+    width: 150px;
+    margin-bottom: 50px;
+    color: rgb(25, 25, 25);;
+}
+.resetBtn,
+.autoplayBtn{
+    background-color:white rgb(236, 222, 22);
+    border: none;
+    color: black;
+    padding: 10px 15px;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+}
+#result{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
