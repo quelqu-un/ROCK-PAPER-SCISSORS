@@ -13,6 +13,7 @@ let computer;
 let randNumber;
 let isAutoPlaying = false;
 let intervalId;
+let msg = 'teste';
 let score = {
     wins: 0,
     losses: 0,
